@@ -1,0 +1,20 @@
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\bin\Debug\WindowsFormsPianoTiles.exe.config
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\bin\Debug\WindowsFormsPianoTiles.exe
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\bin\Debug\WindowsFormsPianoTiles.pdb
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.Form1.resources
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.exe
+D:\Documents\Visual Studio 2013\Projects\WindowsFormsPianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.pdb
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\bin\Debug\WindowsFormsPianoTiles.exe.config
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.exe
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.pdb
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\bin\Debug\WindowsFormsPianoTiles.exe
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\bin\Debug\WindowsFormsPianoTiles.pdb
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.csprojResolveAssemblyReference.cache
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.Form1.resources
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.Properties.Resources.resources
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.csproj.GenerateResource.Cache
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.NewHighScore.resources
+C:\Users\Adrian\Desktop\PianoTiles\WindowsFormsPianoTiles\obj\Debug\WindowsFormsPianoTiles.Speed.resources
